@@ -29,7 +29,7 @@
       },
       {
         "command": "idris.addClause",
-        "title": "Idris: Add Clause"
+        "title": "Idris: Add Definition"
       },
       {
         "command": "idris.addMissing",
@@ -81,7 +81,7 @@
       },
       {
         "command": "idris.makeCase",
-        "title": "Idris: Make Case"
+        "title": "Idris: Make Case Expression"
       },
       {
         "command": "idris.makeLemma",
